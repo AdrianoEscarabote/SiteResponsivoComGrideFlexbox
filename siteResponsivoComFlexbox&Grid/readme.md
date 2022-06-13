@@ -1,0 +1,3 @@
+Esse site responsivo foi resultado de um exercício do curso que estou efetuando no momento. O curso como já falei em alguns outros projetos que realizei e postei no meu repositório do GitHub, é um curso cujo foco é ensinar as tecnologias necessárias para o estudante se tornar um desenvolvedor FullStack Js. 
+Este layout é responsivo e foi construído com flex box e grid, visando o aprimoramento de noções usando CSS puro.
+Foi bem divertido, eu gostei muito da resolução, e sinto que estou evoluindo com responsividade, mas, estou pronto para mais desafios relacionados a responsividade.
